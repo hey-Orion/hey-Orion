@@ -1,84 +1,87 @@
 # Hi, I’m Harsh 👋
 
-### DataOps / Automation Engineering — Reliable & Observable Data Systems
+### DataOps / Data Engineering — Reliable & Testable Data Pipelines
 
 ---
 
-I design and build **production-oriented data pipelines** with a focus on:
+I build **production-oriented data pipelines** with a focus on:
 
 * Data quality enforcement
-* Operational reliability
-* Reproducible execution environments
-* Clear failure visibility
+* Deterministic and reproducible execution
+* Clear observability and failure signals
+* Testable and maintainable data workflows
 
-My systems are built to **fail loudly, validate early, and run deterministically across local, Docker, and CI environments**.
+My approach is simple:
 
-I prioritize correctness, observability, and ownership over quick demos.
+> **Validate early → Fail loudly → Monitor continuously**
 
 ---
 
 ## 🚀 Featured Project — DATAFLOW-SENTINEL
 
-🔗 [https://github.com/harsh-rana-dev/Dataflow-Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)
+🔗 https://github.com/harsh-rana-dev/Dataflow-Sentinel
 
-A production-inspired DataOps pipeline built to prevent **silent data corruption and unnoticed staleness**.
+A production-style DataOps pipeline designed to prevent **silent data corruption and stale data issues**.
 
 ### What It Demonstrates
 
 * **Medallion Architecture** (Bronze → Silver → Gold)
-* **Schema Enforcement with Pydantic**
-* **Freshness Monitoring with explicit signals**
-* **Idempotent, deterministic pipeline execution**
-* **Operational parity across Local, Docker, and GitHub Actions**
-* **CI-driven scheduled runs with visible success/failure alerts**
+* **Schema validation using Pydantic**
+* **Data cleaning and transformation with Pandas**
+* **SQL-based storage and querying (PostgreSQL)**
+* **Idempotent pipeline execution**
+* **Automated testing with Pytest**
+* **Containerized execution (Docker)**
+* **CI pipeline using GitHub Actions**
 
-This project mirrors real-world DataOps and Analytics Engineering workflows — emphasizing reliability and operational discipline rather than tutorial-style scripts.
+This project reflects real-world workflows where **data reliability and correctness are prioritized over quick scripts**.
 
 ---
 
 ## 🧊 Core Stack
 
-**Language**
+### 🟢 Core (Interview Focus)
 
 * Python
+* SQL (PostgreSQL)
+* Pandas
+* Pytest
 
-**Data & Validation**
+### 🟡 Data & Validation
 
-* pandas
 * Pydantic
 * SQLAlchemy
 
-**Infrastructure**
+### 🟡 Infrastructure & Execution
 
-* PostgreSQL (Local & Neon)
 * Docker & Docker Compose
+* PostgreSQL (Local & Neon)
 * GitHub Actions
-* Makefile
 
-**Testing & Tooling**
+### 🟦 Tooling
 
-* pytest
-* Linux / Bash
 * Git & GitHub
+* Linux / Bash
+* Makefile
+* Logging
 
 ---
 
-## 🏛️ Engineering Philosophy
+## 🏛️ Engineering Approach
 
-I build systems for **ownership and predictability**.
+* Validate data before processing
+* Handle edge cases and invalid inputs
+* Write tests for transformations
+* Keep pipelines deterministic
+* Surface failures clearly
 
-* Validate data before promotion
-* Surface issues immediately
-* Keep execution deterministic
-* Prefer simple, maintainable architectures
-* Treat failures as signals, not inconveniences
-
-Reliable systems scale. Silent ones break.
+I focus on building systems that are **predictable, debuggable, and production-ready**.
 
 ---
 
 ## 📫 Availability
 
-* Open to **EU / Remote DataOps / Data & Automation Engineer contract roles**
+* Open to **EU / Remote DataOps / Data Engineering contract roles (~€35k)**
 * Email: [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)
-* LinkedIn: [https://linkedin.com/in/admin-harsh](https://linkedin.com/in/admin-harsh)
+* LinkedIn: [https://linkedin.com/in/admin-harsh](https://www.linkedin.com/in/admin-harsh/)
+
