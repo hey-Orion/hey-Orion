@@ -80,7 +80,7 @@ I focus on building systems that are **predictable, debuggable, and production-r
 
 ## 📫 Availability
 
-* Open to **EU / Remote DataOps / Data Engineering contract roles
+* Open to **EU / Remote DataOps / Data Engineering contract roles**
 * Email: [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)
 * LinkedIn: [https://linkedin.com/in/admin-harsh](https://www.linkedin.com/in/admin-harsh/)
 
