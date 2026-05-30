@@ -1,7 +1,6 @@
 # Hi, I’m Harsh 👋
 
-### DataOps / Data Engineering — Reliable & Testable Data Pipelines
-
+### Data Engineering (DataOps) 
 ---
 
 I build **production-oriented data pipelines** with a focus on:
@@ -81,7 +80,7 @@ I focus on building systems that are **predictable, debuggable, and production-r
 
 ## 📫 Availability
 
-* Open to **EU / Remote DataOps / Data Engineering contract roles (~€35k)**
+* Open to **EU / Remote DataOps / Data Engineering contract roles
 * Email: [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)
 * LinkedIn: [https://linkedin.com/in/admin-harsh](https://www.linkedin.com/in/admin-harsh/)
 
