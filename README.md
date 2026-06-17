@@ -70,6 +70,7 @@ I build **production-oriented data pipelines that don't break silently**. My foc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-4273A5?style=flat-square&logo=gnu-make&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 
 **DevOps Basics & Monitoring:**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -111,6 +112,7 @@ I build **production-oriented data pipelines that don't break silently**. My foc
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-4273A5?style=flat-square&logo=gnu-make&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 
 #### 🧰 Tooling & DevOps Basics
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
