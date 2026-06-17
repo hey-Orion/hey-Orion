@@ -88,6 +88,7 @@ I build **production-oriented data pipelines that don't break silently**. My foc
 *   🧪 **Automated testing with Pytest**
 *   🐳 **Containerized execution with Docker**
 *   👷 **CI pipeline via GitHub Actions**
+*   🧱 **Orchestration with apache-Airflow**
 
 ---
 
