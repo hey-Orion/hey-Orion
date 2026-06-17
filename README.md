@@ -20,16 +20,15 @@ I build **production-oriented data pipelines that don't break silently**. My foc
 
 ---
 
-### ⚡ GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hey-Orion&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hey-Orion&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hey-Orion&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-Orion&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-Orion&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=hey-Orion&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hey-Orion&theme=radical&hide_border=true" width="80%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
