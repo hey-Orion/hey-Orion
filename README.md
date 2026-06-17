@@ -37,7 +37,7 @@ I build **production-oriented data pipelines that don't break silently**. My foc
 
 <div align="center">
   <a href="https://github.com/hey-Orion/Dataflow-Sentinel">
-    <img src="https://img.shields.io/badge/DATAFLOW--SENTINEL-181717?style=flat-square&logo=github&logoColor=white" width="70%" alt="DATAFLOW-SENTINEL">
+    <img src="https://img.shields.io/badge/DATAFLOW--SENTINEL-181717?style=flat-square&logo=github&logoColor=white" width="50%" alt="DATAFLOW-SENTINEL">
   </a>
 </div>
 
