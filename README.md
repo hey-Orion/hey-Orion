@@ -27,10 +27,6 @@ I build **production-oriented data pipelines that don't break silently**. My foc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-Orion&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hey-Orion&theme=radical&hide_border=true" width="80%" />
-</p>
-
 ---
 
 ### 📦 Featured Project
